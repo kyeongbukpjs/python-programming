@@ -11,20 +11,19 @@
 
 
 
-**Exercise 구성**
+**Readme Contents**
 
-- [exercise1](#exercise1) - 표준 입출력 활용
-- [exercise2](#exercise2) - 기본 연산자 활용
-- [exercise3](#exercise3) - 리스트의 활용
-- [exercise4](#exercise4) - 리스트 관련 내장함수
-- [exercise5](#exercise5) - 반복문 활용
-- [exercise6](#exercise6) - 함수 활용
-- [exercise7](#exercise7) - 종합 활용
-- [exercise8](#exercise8) - 파일 입출력
-- [exercise9](#exercise9) - 클래스 활용
+- [Example](#Example) - 코드 예시 (exercise9/problem5.py)
+- [Basics](#Basics) 
+  - [표준 입출력하기](#표준-입출력하기) 
+  - [풀이 관련 내장 함수](#풀이-관련-내장-함수) 
+
+- [Exercise별 구성 및 설명](#Exercise별-구성-및-설명) - exercise 별 problem 수, 파트 및 설명 
 
 
-### Example (exercise9 - problem5.py)
+
+### Example
+exercise9/problem5.py
 
 ```py
 # 4번 문제를 상속받아서 두점을 입력 받고 두 점의 거리를 출력하기
@@ -160,7 +159,7 @@ sorted(temp)
 
 ```
 ---
-#### Exercise별 설명
+#### Exercise별 구성 및 설명
 | exercise | 문제 수 | 파트 | 설명 |
 | ---- | ---- | -------- | ----------- |
 | 1 | 3 | Standard I/O| 자동 채점 방식의 문제 풀이를 위한 표준 입출렵 입니다. |
